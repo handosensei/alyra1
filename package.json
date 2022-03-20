@@ -1,0 +1,22 @@
+{
+  "name": "voting",
+  "version": "1.0.0",
+  "description": "Alyra - TP 1 ",
+  "main": "soljson-v0.8.13+commit.abaa5c0e.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handosensei/alyra1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/handosensei/alyra1/issues"
+  },
+  "homepage": "https://github.com/handosensei/alyra1#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
